@@ -25,6 +25,8 @@ This repository documents my **Data Structures & Algorithms preparation** using 
 - Linked List
 - Sliding Window
 - Stack  
+- Trees
+_ Binary search
 *(More patterns will be added gradually)*
 
 ---
