@@ -26,7 +26,9 @@ This repository documents my **Data Structures & Algorithms preparation** using 
 - Sliding Window
 - Stack  
 - Trees
-_ Binary search
+- Binary search
+- Heap
+- Backtracking
 *(More patterns will be added gradually)*
 
 ---
